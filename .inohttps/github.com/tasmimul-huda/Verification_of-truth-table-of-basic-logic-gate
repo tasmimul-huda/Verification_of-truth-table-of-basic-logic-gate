@@ -1,5 +1,5 @@
-#define iop1 3
-#define iop2 5
+#define iop1 3  //input pin 1 for all gate
+#define iop2 5  //input pin 2 for all gate
 #define LED1 6  //AND GATE OUTPUT
 #define LED2 7 //NAND GATE OUTPUT
 #define LED3 8 //OR GATE OUTPUTy
