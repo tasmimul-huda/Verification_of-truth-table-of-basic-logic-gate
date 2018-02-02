@@ -1,1 +1,1 @@
-# Verification_of-truth-table-of-basic-logic-gate
+Verification_of-truth-table-of-basic-logic-gate
